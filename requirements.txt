@@ -1,4 +1,8 @@
 anthropic
 python-dotenv
 langgraph
+streamlitanthropic
+python-dotenv
+langgraph
 streamlit
+reportlab
